@@ -130,3 +130,7 @@
   Utilized AWS Route 53 for DNS management throughout the project, enabling the registration and management of domain names for the deployed website.
 - **Dynamic DNS Updates:**
   Route 53 supports dynamic DNS updates, allowing for automatic changes to DNS records based on changes in the infrastructure, such as IP address updates or resource additions/removals. This ensures that the DNS configuration remains up-to-date without manual intervention, improving overall system reliability and reducing administrative overhead.
+
+## Contributions:
+-**anuragtraut2003@gmail.com**
+-**Connect on:https://linkedin.com/in/anurag-raut-338b8b2b8**
