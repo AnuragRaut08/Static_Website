@@ -47,7 +47,7 @@
 - **Public Subnets:** 
   Public subnets (Public Subnet AZ1, Public Subnet AZ2) were established for resources that require direct internet access, such as web servers, allowing them to communicate with the internet while maintaining security.
 - **Private Subnets:** 
-  Private subnets (Private Subnet AZ1, Private Subnet AZ2) were designated for resources that do not need direct internet access, such as databases or application servers, providing an additional layer of security by keeping them isolated from the internet.
+  Private subnets (Private Subnet AZ1, Private Subnet AZ2) were designated for resources that don't need direct internet access, such as databases or application servers, providing an additional layer of security by keeping them isolated from the internet.
 
 ## 4. Public Route Table:
 - **Traffic Routing:** 
